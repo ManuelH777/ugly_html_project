@@ -1,5 +1,5 @@
 body{
-    background-color: red;
+    background-color: black;
 }
 
 h1{
@@ -10,12 +10,16 @@ h1{
 }
 
 h2{
+    color: white;
     font-size: 15px;
 
 }
 #starters_image_div{
     text-align: center;
-    font-size: 25px;
+    border: 3px solid blue;
+    margin-left: 325px;
+    margin-right: 315px;
+
 }
 
 .list{
@@ -23,5 +27,44 @@ h2{
     font-size: 15px;
 }
 
+#bulbasaur_container{
+    background-color: rgb(132, 231, 132);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid yellow;
+}
 
+#charmander_container{
+    background-color: rgb(232, 163, 74);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid yellow;
+}
+
+#squirtle_container{
+    background-color: rgb(88, 220, 224);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid yellow;
+}
+
+.pokemon_names{
+    color: white;
+}
+.pokemon_description{
+    color: white;
+}
+
+footer{
+    color: white;
+}
+
+
+.pokemon_images{
+    text-align: center;
+    margin: 30px;
+}
 
