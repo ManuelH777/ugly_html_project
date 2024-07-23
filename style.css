@@ -1,0 +1,27 @@
+body{
+    background-color: red;
+}
+
+h1{
+    color: rgb(254, 209, 29);
+    background-color: rgb(86, 86, 227);
+    text-align: center;
+
+}
+
+h2{
+    font-size: 15px;
+
+}
+#starters_image_div{
+    text-align: center;
+    font-size: 25px;
+}
+
+.list{
+    color: white;
+    font-size: 15px;
+}
+
+
+
